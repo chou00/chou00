@@ -4,8 +4,9 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
-- 🌱 I’m currently Working on Web App(Laravel - symphony ).
-- 🌱 I’m currently learning Mobile Developemment (flutter- java).
+- 🌱 I’m currently Working on Web App(Laravel - Django ).
+- 🌱 I’m currently learning Mobile Developemment (flutter - java).
+- 🌱  I’m currently learning Machine learning and Deep Learning .
 - 🌱 I’m currently learning SalesForce Devlopper.
 
  - 💬 Ask me about ** Mobile Developpement  **.
